@@ -20,11 +20,11 @@
 <p align="center">
     <img title="Postman" src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/icons8-postman-is-the-only-complete-api-development-environment-48.png"> 
     <img title="REST API" src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/icons8-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8-api-50%20(1).png">
-    <img title="Git" src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/git%20wh.png" width="5%"/> 
+    <img title="Git" src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/75369cfdb4e93c661089ffa06df6cbd52f82bfc7/img/17119660-logotipo-do-github-icone-do-git-hub-com-texto-em-fundo-branco-e-preto-gratis-vetor.jpg" width="5%"/> 
     <img title="Python" src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/icons8-%D0%BF%D0%B8%D1%82%D0%BE%D0%BD-48.png">
     <img title="Selenium" src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/icons8-%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-selenium-48.png">
     <img title="SQL" src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/icons8-mysql-50.png">
-    <img title="Trello" src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/icons8-trello-50.png">
+    <img title="Trello" src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/75369cfdb4e93c661089ffa06df6cbd52f82bfc7/img/icons8-trello-48.png">
     <img title="jira" src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/icons8-jira-48.png"> 
     <br/>
     <img title="DevTools" src="https://img.shields.io/badge/-DevTools-ffc933%3F" width="8%"/> 
