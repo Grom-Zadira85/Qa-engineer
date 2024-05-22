@@ -15,17 +15,21 @@
 
 ## <img src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/tools.png" title="Technology stack" width="3%"/> Технологии, с которыми я работаю:
 
+
+
 <p align="center">
-    <img title="Postman" src="https://img.shields.io/badge/-Postman-ffc933%3Flogo%3Dpostman%26style">
-    <img title="REST API" src="https://img.shields.io/badge/-REST%20API-ffc933%3F">
-    <img title="Git" src="https://img.shields.io/badge/-Git / GitHub-ffc933%3F">
-    <img title="Python" src="https://img.shields.io/badge/-Python-ffc933%3F">
-    <img title="Selenium" src="https://img.shields.io/badge/-Selenium-ffc933%3F">
-    <img title="Pytest" src="https://img.shields.io/badge/-Pytest-ffc933%3F">
-    <img title="SQL" src="https://img.shields.io/badge/-SQL / MySQL-ffc933%3F">
-    <img title="DevTools" src="https://img.shields.io/badge/-DevTools-ffc933%3F">
-     <img title="Trello" src="https://img.shields.io/badge/-Trello-ffc933%3F">
-    <img title="Тестирование ПО" src="https://img.shields.io/badge/-%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%9F%D0%9E-ffc933%3F">  
+    <img title="Postman" src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/icons8-postman-is-the-only-complete-api-development-environment-48.png"> 
+    <img title="REST API" src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/icons8-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8-api-50%20(1).png">
+    <img title="Git" src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/git%20wh.png" width="5%"/> 
+    <img title="Python" src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/icons8-%D0%BF%D0%B8%D1%82%D0%BE%D0%BD-48.png">
+    <img title="Selenium" src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/icons8-%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-selenium-48.png">
+    <img title="SQL" src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/icons8-mysql-50.png">
+    <img title="Trello" src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/icons8-trello-50.png">
+    <img title="jira" src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/icons8-jira-48.png"> 
+    <br/>
+    <img title="DevTools" src="https://img.shields.io/badge/-DevTools-ffc933%3F" width="8%"/> 
+    <img title="Pytest" src="https://img.shields.io/badge/-Pytest-ffc933%3F" width="6%"/> 
+    <img title="Тестирование ПО" src="https://img.shields.io/badge/-%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%9F%D0%9E-ffc933%3F"width="15%"/>   
 </p>
 
 <br/>
