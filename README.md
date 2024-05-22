@@ -1,8 +1,8 @@
-# <img width="5%" title="About me" src="attachments/images/chat.png"> Немного о себе
+#  Немного о себе
 
 <img align="right" width="35%" src="attachments/gif/animation.gif">
 
-### _Привет, я Константин 👋 — инженер по тестированию ПО_ <img width="3%" src="attachments/images/bug.png">
+### _Привет, я Константин 👋 — инженер по тестированию ПО_ >
 
 <p align="left">
 Моя цель – найти работу в компании, которая ценит сотрудников и их вклад в общее дело.
@@ -13,7 +13,7 @@
 
 <br/>
 
-## <img width="4%" title="Technology stack" src="attachments/images/tools.png"> Технологии, с которыми я работаю:
+##  Технологии, с которыми я работаю:
 
 <p align="center">
     <img title="Postman" src="https://img.shields.io/badge/-Postman-ffc933%3Flogo%3Dpostman%26style">
@@ -30,10 +30,10 @@
 
 <br/>
 
-## <img width="4%" title="Contacts" src="attachments/images/contacts.png"> Мои контакты:
+##  Мои контакты:
 
 <p align="center">
-    <a href="https://t.me/Konstanta_nius"><img width=4% title="Telegram" src="attachments/logo/telegram.png"></a>&nbsp;
+    <a href="https://t.me/Konstanta_nius"><img width=4% title="Telegram" "></a>&nbsp;
     <a href="https://www.linkedin.com/in/константин-курило/"><img width=5% title="LinkedIn" src="attachments/logo/linkedin.png"></a>&nbsp;
 </p>
 
