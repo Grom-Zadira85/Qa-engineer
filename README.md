@@ -1,25 +1,34 @@
-# Qa-engeneer
 
-About me Немного о себе
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+class SoftwareEngineer:
 
+    def __init__(self):
+        self.name = "Konstantin"
+        self.role = "Software Engineer"
+        self.language_spoken = [" ru_RU", "uk_UA", "en_US"]
 
-Привет, я Константин👋 — инженер по тестированию ПО 
-Моя цель – найти работу в компании, которая ценит сотрудников и их вклад в общее дело.
-Ответственно отношусь к выполняемой работе, коммуникабельный, трудолюбивый, энергичный, стремлюсь к получению наивысших результатов в любой начатой работе. При изучении новой информации "стремлюсь докопаться до сути". Для меня очень важен положительный результат моей работы.
-
-
-Technology stack Технологии, с которыми я работаю:
-Postman REST API HTML / CSS Git Python Selenium  Selene Pytest MySQL_Workbench  DevTools Trello jira GNU  Тестирование ПО
-
-
-
-Contacts Мои контакты:
-Telegram  LinkedIn  Habr Career
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-Have a good day :)
+    def Technology_stack(self):
+        self.API_tools = "Postman, Soap UI"
+        self.API_types = "REST, SOAP"
+        self.distributed_version_control_system = "Git"
+        self.programming_language = "Python"
+        self.framework = "Pytest"
+        self. browser_automation_framework = "Selenium, Selene"
+     
+        self.data_base = "MySQL_Workbench
+        self.development_tool = "DevTools"
+        self.project_management_software = "Trello"
+        self.bug_tracking_system = "Jira"
+        self.linux= "GNU"
+        self.software_product_checks = "Software testing"
 
-
+me = SoftwareEngineer()
+me.say_hi()
 
 
 
