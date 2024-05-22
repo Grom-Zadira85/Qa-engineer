@@ -1,8 +1,8 @@
 # <img src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/chat.png" width="3%"/> Немного о себе
 
-<img align="right" width="20%" src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/kak-stat-testirovshchikom-po_mini.png">
+<!--<img align="right" width="20%" src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/kak-stat-testirovshchikom-po_mini.png"> -->
 
-### _Привет, я Константин 👋 — инженер по тестированию ПО_ <img src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/%D0%B1%D0%B0%D0%B3.jpg" title="Technology stack" width="5%"/>
+### _Привет, я Константин 👋 — инженер по тестированию П.О._ 
 
 <p align="left">
 Моя цель – найти работу в компании, которая ценит сотрудников и их вклад в общее дело.
