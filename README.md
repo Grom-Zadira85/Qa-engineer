@@ -13,7 +13,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/tools.png" title="Technology stack" width="3%"/> Технологии, с которыми я работаю:
+## <img src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/tools.png" title="Technology stack" width="3%"/> Технології з якими я працюю:
 
 
 
@@ -34,7 +34,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/contacts.png" title="Contacts" width="3%"/> Мои контакты:
+## <img src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/contacts.png" title="Contacts" width="3%"/> Мої контакти:
 
 <p align="center">
     <a href="https://t.me/Konstanta_nius"><img width="3%" title="Telegram" src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/icons8-%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC-94.png" alt="Telegram"></a>&nbsp;
