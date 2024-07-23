@@ -1,8 +1,9 @@
-# <img src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/chat.png" width="3%"/> Немного о себе
+# <img src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/chat.png" width="3%"/> Трохи про себе /Немного о себе.
 
 <img align="right" width="20%" src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/kak-stat-testirovshchikom-po_mini.png"> 
 
-### _Привіт, я Костянтин 👋 — інженер з тестування П.З.._ 
+### _Привіт, я Костянтин 👋 — інженер з тестування П.З. /Привет, я Константин 👋 — инженер по тестированию П.О._
+
 
 <p align="left">
 Моя мета – знайти роботу в компанії, яка цінує співробітників та їхній внесок у спільну справу.
@@ -11,9 +12,17 @@
 Для мене дуже важливим є позитивний результат моєї роботи.
 </p>
 
+
+<p align="left">
+Моя цель – найти работу в компании, которая ценит сотрудников и их вклад в общее дело.
+Ответственно отношусь к выполняемой работе, коммуникабельный, трудолюбивый, энергичный, стараюсь получить самые высокие 
+результатов в любой начавшейся работе. При изучении новой информации "стремлюсь докопаться до сути". 
+Для меня очень важен положительный результат моей работы.
+</p>
+
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/tools.png" title="Technology stack" width="3%"/> Технології з якими я працюю:
+## <img src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/tools.png" title="Technology stack" width="3%"/> Технології з якими я працюю /Технологии с котрыми я работаю:
 
 
 
@@ -29,12 +38,12 @@
     <br/>
     <img title="DevTools" src="https://img.shields.io/badge/-DevTools-ffc933%3F" width="8%"/> 
     <img title="Pytest" src="https://img.shields.io/badge/-Pytest-ffc933%3F" width="6%"/> 
-    <img title="Тестування ПЗ" src="https://img.shields.io/badge/-%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%9F%D0%9E-ffc933%3F"width="15%"/>   
+    <img title="Тестування П.З./Тестирование П.О." src="https://img.shields.io/badge/-%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%9F%D0%9E-ffc933%3F"width="15%"/>   
 </p>
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/contacts.png" title="Contacts" width="3%"/> Мої контакти:
+## <img src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/contacts.png" title="Contacts" width="3%"/> Мої контакти /Мои контакты:
 
 <p align="center">
     <a href="https://t.me/Konstanta_nius"><img width="3%" title="Telegram" src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/icons8-%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC-94.png" alt="Telegram"></a>&nbsp;
