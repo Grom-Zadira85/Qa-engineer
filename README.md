@@ -23,7 +23,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/tools.png" title="Technology stack" width="3%"/> Технології з якими я працюю /Технологии с котрыми я работаю:
+## <img src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/tools.png" title="Technology stack" width="3%"/> Технології з якими я працюю /Технологии с которыми я работаю:
 
 
 
